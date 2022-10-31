@@ -1,0 +1,3 @@
+Please add more environment variables here
+
+NODE_ENV=test
